@@ -1,0 +1,17 @@
+*.d
+*.o
+*.ko
+*.obj
+*.elf
+*.Libraries
+*.lib
+*.a
+*.lo
+*.dsYM/
+*.su
+*.idb
+*.pdb
+*.mod*
+*.cmd
+dkms.conf
+*.log
